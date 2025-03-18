@@ -76,6 +76,7 @@ public class Standalone {
 	  driver.findElement(with(By.tagName("button")).below(checkbox)).click();
 	  Thread.sleep(5000);
 	  System.out.println(driver.getCurrentUrl());
+	  System.out.println("Hello Bro");
 
 
 	}	
