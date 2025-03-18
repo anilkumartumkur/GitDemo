@@ -7,4 +7,10 @@ public static void main(String[] args) {
 	System.out.println(x+y+"sum of two numbers");
 	System.out.println(x-y+"substraction of two number");
 }
+public void mutiplie()
+{
+	int x=10;
+	int y=29;
+	System.out.println(x*y);
+}
 }
