@@ -77,6 +77,8 @@ public class Standalone {
 	  Thread.sleep(5000);
 	  System.out.println(driver.getCurrentUrl());
 	  System.out.println("Hello Bro");
+	  System.out.println("GitDemo Path");
+	  System.out.println("I am from India");
 
 
 	}	

@@ -1,0 +1,16 @@
+2025-03-18 13:10:03,014 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-03-18 13:37:55,779 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-03-18 13:39:45,072 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RealTimeProject:EcommmerseProject:0.0.1-SNAPSHOT @ C:\Users\AMAR\GitShift\pom.xml.
+2025-03-18 13:39:49,206 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AMAR\GitShift\src\main\resources
+2025-03-18 13:39:49,218 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AMAR\GitShift\src\test\resources
+2025-03-18 13:39:51,779 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AMAR\GitShift\src\main\resources
+2025-03-18 13:39:51,786 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AMAR\GitShift\src\test\resources
+2025-03-18 13:42:39,961 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-03-18 13:42:52,503 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AMAR\GitShift\src\main\resources
+2025-03-18 13:42:52,514 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AMAR\GitShift\src\test\resources
+2025-03-18 19:46:22,917 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AMAR\GitShift\src\main\resources
+2025-03-18 19:46:22,927 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AMAR\GitShift\src\test\resources
+2025-03-18 19:46:50,500 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AMAR\GitShift\src\main\resources
+2025-03-18 19:46:50,508 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AMAR\GitShift\src\test\resources
+2025-03-18 19:47:13,591 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AMAR\GitShift\src\main\resources
+2025-03-18 19:47:13,599 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\AMAR\GitShift\src\test\resources
